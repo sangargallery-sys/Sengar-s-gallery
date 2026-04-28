@@ -1,0 +1,65 @@
+{
+  "artForm": "Madhubani",
+  "origin": "Mithila, Bihar (UNESCO Intangible Cultural Heritage)",
+  "description": "Ancient folk art characterized by intricate patterns and mythological themes, primarily created by women",
+  "historicalBackground": "Originated during Ramayana times, traditionally created as part of rituals and celebrations",
+  "paintings": [
+    {
+      "id": 1,
+      "title": "Radha Krishna Love Story",
+      "description": "Intricate depiction of divine love between Radha and Krishna with floral patterns",
+      "artist": "Madhubani Master Artist",
+      "medium": "Natural pigments on paper",
+      "dimensions": "14\" x 18\"",
+      "price": 5200,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["krishna", "love", "mythology", "divine"]
+    },
+    {
+      "id": 2,
+      "title": "Fertility and Abundance",
+      "description": "Traditional fertility symbols with geometric patterns and natural elements",
+      "artist": "Madhubani Master Artist",
+      "medium": "Natural pigments on paper",
+      "dimensions": "12\" x 16\"",
+      "price": 4500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["fertility", "traditional", "symbols", "abundance"]
+    },
+    {
+      "id": 3,
+      "title": "Fish and Water Motifs",
+      "description": "Auspicious fish patterns with water-inspired geometric designs",
+      "artist": "Madhubani Master Artist",
+      "medium": "Natural pigments on paper",
+      "dimensions": "13\" x 17\"",
+      "price": 4800,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["fish", "water", "auspicious", "patterns"]
+    },
+    {
+      "id": 4,
+      "title": "Ramayan Epic Scene",
+      "description": "Detailed scene from Ramayana epic with intricate character and landscape details",
+      "artist": "Madhubani Master Artist",
+      "medium": "Natural pigments on paper",
+      "dimensions": "16\" x 20\"",
+      "price": 6200,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["ramayana", "epic", "mythology", "religious"]
+    }
+  ],
+  "characteristics": [
+    "Intricate patterns",
+    "Natural pigments",
+    "Mythological themes",
+    "Female artistry tradition",
+    "Fertility symbols",
+    "Geometric designs",
+    "Cultural narratives"
+  ]
+}
