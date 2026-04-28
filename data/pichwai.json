@@ -1,0 +1,53 @@
+{
+  "artForm": "Pichwai",
+  "origin": "Nathdwara, Rajasthan",
+  "description": "Large cloth paintings depicting Lord Krishna, traditionally used as temple backdrops",
+  "historicalBackground": "Created as temple art, these paintings serve as focal points for worship and devotion",
+  "paintings": [
+    {
+      "id": 1,
+      "title": "Krishna Butter Theft",
+      "description": "Playful depiction of young Krishna stealing butter in Gokul",
+      "artist": "Pichwai Master",
+      "medium": "Watercolor and gold on cloth",
+      "dimensions": "18\" x 24\"",
+      "price": 8500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["krishna", "childhood", "divine", "playful"]
+    },
+    {
+      "id": 2,
+      "title": "Krishna Flute Concert",
+      "description": "Enchanting scene of Krishna playing flute with devotees",
+      "artist": "Pichwai Master",
+      "medium": "Watercolor and gold on cloth",
+      "dimensions": "20\" x 28\"",
+      "price": 9500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["krishna", "music", "devotion", "spiritual"]
+    },
+    {
+      "id": 3,
+      "title": "Govardhan Mountain Lifting",
+      "description": "Epic scene of Krishna lifting Govardhan mountain",
+      "artist": "Pichwai Master",
+      "medium": "Watercolor and gold on cloth",
+      "dimensions": "16\" x 22\"",
+      "price": 7500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["krishna", "power", "miracle", "mythology"]
+    }
+  ],
+  "characteristics": [
+    "Large scale",
+    "Temple backdrop",
+    "Krishna-centric",
+    "Gold embellishment",
+    "Devotional themes",
+    "Bright colors",
+    "Spiritual narratives"
+  ]
+}
