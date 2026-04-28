@@ -1,0 +1,53 @@
+{
+  "artForm": "Miniature Paintings",
+  "origin": "Mughal Empire, Rajasthan",
+  "description": "Detailed small-scale paintings with fine brushwork and precious materials",
+  "historicalBackground": "Originated during Mughal era, representing court life, hunting scenes, and romantic tales",
+  "paintings": [
+    {
+      "id": 1,
+      "title": "Mughal Court Gathering",
+      "description": "Intricate depiction of Mughal court with nobles and attendants",
+      "artist": "Master Miniature Artist",
+      "medium": "Watercolor and gold leaf on paper",
+      "dimensions": "8\" x 10\"",
+      "price": 12000,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["mughal", "court", "royal", "historical"]
+    },
+    {
+      "id": 2,
+      "title": "Royal Hunting Expedition",
+      "description": "Detailed hunting scene with nobles on horseback and hunting animals",
+      "artist": "Master Miniature Artist",
+      "medium": "Watercolor with gold and silver on paper",
+      "dimensions": "9\" x 11\"",
+      "price": 13500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["hunting", "royal", "mughal", "adventure"]
+    },
+    {
+      "id": 3,
+      "title": "Garden Romance",
+      "description": "Romantic scene set in royal gardens with intricate floral details",
+      "artist": "Master Miniature Artist",
+      "medium": "Watercolor on paper",
+      "dimensions": "7\" x 9\"",
+      "price": 10500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["romantic", "garden", "nature", "royal"]
+    }
+  ],
+  "characteristics": [
+    "Extremely fine details",
+    "Small scale",
+    "Gold and silver embellishment",
+    "Precious pigments",
+    "Court themes",
+    "Royal subjects",
+    "Historical narratives"
+  ]
+}
