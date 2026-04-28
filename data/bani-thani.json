@@ -1,0 +1,65 @@
+{
+  "artForm": "Bani Thani",
+  "origin": "Rajasthan, India",
+  "description": "Traditional Rajasthani folk art known for vibrant colors and intricate details",
+  "paintings": [
+    {
+      "id": 1,
+      "title": "Women Performing Daily Rituals",
+      "description": "Depicts traditional Rajasthani women engaged in cultural practices",
+      "artist": "Master Artisan",
+      "medium": "Watercolor on handmade paper",
+      "dimensions": "12\" x 16\"",
+      "price": 4500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["traditional", "cultural", "women", "daily-life"]
+    },
+    {
+      "id": 2,
+      "title": "Celebrating Holi",
+      "description": "Vibrant representation of Holi festival celebrations",
+      "artist": "Master Artisan",
+      "medium": "Acrylic on canvas",
+      "dimensions": "14\" x 18\"",
+      "price": 6500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["festival", "celebration", "vibrant", "cultural"]
+    },
+    {
+      "id": 3,
+      "title": "Garden with Peacocks",
+      "description": "Intricate floral patterns with peacocks and birds",
+      "artist": "Master Artisan",
+      "medium": "Watercolor on paper",
+      "dimensions": "10\" x 14\"",
+      "price": 3800,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["nature", "wildlife", "floral", "peacocks"]
+    },
+    {
+      "id": 4,
+      "title": "Maharaja Court Scene",
+      "description": "Royal court gathering with traditional Rajasthani courtiers",
+      "artist": "Master Artisan",
+      "medium": "Mixed media on paper",
+      "dimensions": "16\" x 20\"",
+      "price": 7500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["royal", "court", "traditional", "historical"]
+    }
+  ],
+  "characteristics": [
+    "Vibrant colors",
+    "Intricate details",
+    "Fine brushwork",
+    "Traditional patterns",
+    "Geometric designs",
+    "Cultural themes"
+  ],
+  "customizationAvailable": true,
+  "bulkOrdersAccepted": true
+}
