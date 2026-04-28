@@ -1,0 +1,65 @@
+{
+  "artForm": "Warli",
+  "origin": "Western Maharashtra and Gujarat tribal regions",
+  "description": "Ancient tribal art form using geometric patterns and natural pigments",
+  "historicalBackground": "Created by Warli tribes for over 3000 years, primarily depicting village life and nature",
+  "paintings": [
+    {
+      "id": 1,
+      "title": "Village Celebration",
+      "description": "Tribal community gathering for celebration with geometric patterns",
+      "artist": "Warli Tribal Artist",
+      "medium": "Natural pigments on paper",
+      "dimensions": "12\" x 14\"",
+      "price": 3500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["tribal", "community", "celebration", "geometric"]
+    },
+    {
+      "id": 2,
+      "title": "Hunting Expedition",
+      "description": "Tribal hunters with animals in forest setting",
+      "artist": "Warli Tribal Artist",
+      "medium": "Natural pigments on paper",
+      "dimensions": "14\" x 16\"",
+      "price": 4200,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["hunting", "tribal", "nature", "adventure"]
+    },
+    {
+      "id": 3,
+      "title": "Harvest Season",
+      "description": "Community engaged in harvesting crops with traditional methods",
+      "artist": "Warli Tribal Artist",
+      "medium": "Natural pigments on paper",
+      "dimensions": "13\" x 15\"",
+      "price": 3800,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["harvest", "agricultural", "tribal", "seasonal"]
+    },
+    {
+      "id": 4,
+      "title": "Forest and Wildlife",
+      "description": "Dense tribal patterns depicting forest ecosystem and animals",
+      "artist": "Warli Tribal Artist",
+      "medium": "Natural pigments on paper",
+      "dimensions": "16\" x 18\"",
+      "price": 4500,
+      "currency": "INR",
+      "inStock": true,
+      "tags": ["forest", "wildlife", "nature", "tribal"]
+    }
+  ],
+  "characteristics": [
+    "Geometric patterns",
+    "Natural pigments",
+    "Tribal themes",
+    "Village life",
+    "Simple designs",
+    "White on earth tones",
+    "Circular motifs"
+  ]
+}
